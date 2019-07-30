@@ -1,0 +1,30 @@
+{
+    "country": "Italy",
+    "city": "Rome",
+    "daynum": 10,
+    "period": {
+        "from": "2019-07-10",
+        "to": "2019-07-20"
+    },
+    "travel_type": "tourism",
+    "air_flights": "Air Astana",
+    "hotel": {
+      "name":"Rome Kings Suite",
+      "image": "https://s-ec.bstatic.com/images/hotel/max1280x900/113/113181509.jpg",
+      "address":"Via Francesco Crispi 10, Спанья, 00187 Рим, Италия",
+      "room":{
+        "name": "Двухместный номер с 1 кроватью или 2 отдельными кроватями",
+        "description":"Из этого номера с кондиционером, бесплатным Wi-Fi и телевизором с 32-дюймовым плоским экраном и спутниковыми каналами открывается вид на улицу Ларго-дель-Тритоне. Он располагает собственной современной ванной комнатой.",
+        "link":"https://www.booking.com/hotel/it/rome-kings-suite.ru.html?label=gen173nr-1DCAEoggI46AdIM1gEaIABiAEBmAEhuAEXyAEM2AED6AEBiAIBqAIDuALQwZXpBcACAQ;sid=29ee32f1679534bb6d4aab0cfe6a15e9;all_sr_blocks=47896101_88464638_0_0_0;checkin=2019-07-28;checkout=2019-08-07;dest_id=-126693;dest_type=city;dist=0;group_adults=1;group_children=0;hapos=1;highlighted_blocks=47896101_88464638_0_0_0;hpos=1;req_adults=1;req_children=0;room1=A;sb_price_type=total;sr_order=popularity;srepoch=1562730754;srpvid=aed51b41313f0123;type=total;ucfs=1&#RD47896101"
+      },
+      "url":"https://www.booking.com/hotel/it/rome-kings-suite.ru.html?label=gen173nr-1DCAEoggI46AdIM1gEaIABiAEBmAEhuAEXyAEM2AED6AEBiAIBqAIDuALQwZXpBcACAQ;sid=29ee32f1679534bb6d4aab0cfe6a15e9;all_sr_blocks=47896101_88464638_0_0_0;checkin=2019-07-28;checkout=2019-08-07;dest_id=-126693;dest_type=city;dist=0;group_adults=1;group_children=0;hapos=1;highlighted_blocks=47896101_88464638_0_0_0;hpos=1;req_adults=1;req_children=0;room1=A;sb_price_type=total;sr_order=popularity;srepoch=1562730754;srpvid=aed51b41313f0123;type=total;ucfs=1&",
+      "hotel_description": "Отель Rome Kings Suite расположен в историческом центре Рима, всего в 250 метрах от фонтана Треви. К услугам гостей современные номера и бесплатный Wi-Fi на всей территории. Просторные номера с видом на улицу Ларго-дель-Тритон и дизайнерской мебелью оснащены кондиционером и 32-дюймовым телевизором с плоским экраном и спутниковыми каналами, а также в распоряжении гостей современная собственная ванная комната.",
+      "comments":{
+        "comment":"Расположение отличное- прямо в центре. Сотрудник отзывчивые и потрясающие. Помогли найти билеты и разобраться с достопримечательностями. Неожиданно изменились планы и необходимо было двигаться на без багажа- разрешили оставить на пару дней!! Очень отзывчивые сотрудники. СПАСИБО Большое!",
+        "language":"russian",
+        "rating": "8,4"
+      },
+      "stars": "5"
+    },
+    "cost": 627390
+  }
